@@ -10,3 +10,15 @@
 
 # ABOUT EOTO
 Each One Teach One is a simple technique for imparting small pieces of understanding to agroup—one student at a time. Each student confronts new information, learns it, and then is empowered to teach it to each other student. It allows the student to understand better andprovides the learner with rare one-on-one attention and lets students select“lessons/Modules” appropriate to particular student learning styles, energy levels, and personalities. As a teaching method, it can be used with almost any subject. This helps the individual to enhance the understanding of self and the subject, as unofficially proven, it is always that best friend who becomes the best teacher by teaching topics in a way that one can remember in the last minute, EOTO would be taking this concept much farther by building the system for it, with a community that would work for the betterment of the concept and the idea, includes analysis, maintenance, support, improvement, etc
+
+# Software Requirements
+
+• Visual Studio Code2019.
+• Google Chrome or Microsoft Edge of latestversion.
+• Front End : HTML,CSS,JS(optional)
+• Linux 7.1 or Windows XP/7/8/10OS or Mac OS
+# Hardware Requirements
+
+• Pentium 200-MHz computer with a minimum of 64 MB of RAM (128 MB of RAM 
+recommended).
+• Monitor with a refresh rate of atleast 40Hz for a smooth GUI experience(optional).
