@@ -1,4 +1,4 @@
-# EOTO-Each-One-Teach-One-
+# EOTO-Each-One-Teach-One(Front-end Development)
 
  Team members: B DEVA DEEKSHITH and KILARI JASWANTH(https://github.com/Kilarijaswanth)
  
