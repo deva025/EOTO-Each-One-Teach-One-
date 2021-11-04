@@ -1,6 +1,6 @@
 # EOTO-Each-One-Teach-One-
 
-# Team members: B DEVA DEEKSHITH and KILARI JASWANTH(https://github.com/Kilarijaswanth)
+ Team members: B DEVA DEEKSHITH and KILARI JASWANTH(https://github.com/Kilarijaswanth)
  PROJECT IS TO MAKE A WEB PAGE ABOUT EOTO(Each one Teach one) .THIS PROJECT IS MADE USING HTML,CSS .CSS IS MADE WITH AN EXTERNAL LINK.
  THIS WEB PAGE CONSISTS OF HIS TWO FORMS .ONE IS “if you are student and Willing to learn” AND “if you are a student willing to teach”. 
  THIS WEB PAGE IS MADE UP OF WITH BASIC HTML AND CSS . 
